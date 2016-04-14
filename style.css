@@ -47,12 +47,12 @@ section {
 }
 
 footer {
-	background-color: #fff; 
+	background-color:  #272838;
 }
 
 .resize {
-	width: 50%;
-	height: 35%;
+	width: 60%;
+	height: 25%;
 	margin: 0 auto;
 	display: block;
 	
