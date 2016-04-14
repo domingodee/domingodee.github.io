@@ -59,10 +59,7 @@ footer {
 
 }
 
-.bird .resize {
-	width: 100%;
-	height: 25%;
-	margin: 0 auto;
-
-
+.bird
+{
+	vertical-align: left;
 }
