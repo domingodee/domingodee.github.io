@@ -61,3 +61,10 @@ footer {
 
 }
 
+section .resize{
+	width: 30%;
+	height: 30%;
+	margin-left: 0 auto;
+	display: inline-block;
+
+}
