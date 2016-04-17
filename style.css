@@ -79,6 +79,8 @@ section .resize{
 }
  main ul li {
  	display: inline-block;
+ 	width: 30%
+ 	height: 30%;
 
  }
  .src ladyskecth
