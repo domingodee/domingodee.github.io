@@ -72,10 +72,13 @@ section .resize{
 .style {
 
 }
-.src{
+.src bird.jpg .resize {
+	width: 30%
+	height: 30%;
 	align-items: center;
 }
  main ul li {
  	display: inline-block;
 
  }
+ .src ladyskecth
