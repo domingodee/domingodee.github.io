@@ -73,8 +73,8 @@ section .resize{
 
 }
 .src bird.jpg .resize {
-	width: 30%
-	height: 30%;
+	width: 45%
+	height: 45%;
 	align-items: center;
 }
  main ul li {
