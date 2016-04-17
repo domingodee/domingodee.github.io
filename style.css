@@ -2,7 +2,7 @@ body {
 	background-color: #989FCE;
 	color: #BF0603;
 	font-family: Arial;
-	background-image: url(peoplecartoon.jpg);\
+    background-image: url(peoplecartoon.jpg);
 	background-attachment: fixed;
 
 }
@@ -30,7 +30,7 @@ nav ul li {
 
 li a:link, li a:hover, {
 	text-decoration: none;
-	color: #000;
+	color: #BF0603;
 }
 
 li a:hover {
