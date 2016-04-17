@@ -75,3 +75,7 @@ section .resize{
 .src{
 	align-items: center;
 }
+ main ul li {
+ 	display: inline-block;
+
+ }
