@@ -69,3 +69,9 @@ section .resize{
 	display: inline-block;
 
 }
+.style {
+
+}
+.src{
+	align-items: left;
+}
