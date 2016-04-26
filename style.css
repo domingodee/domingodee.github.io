@@ -5,6 +5,7 @@ body {
     background-image: url(peoplecartoon.jpg);
     background-image: 3px;
     background-image: fixed;
+
 	
 	font-weight: bold;
 	font-size: 30px;
@@ -75,3 +76,6 @@ footer {
  	
 
 
+#drawings {
+	background-image: url(bird.jpg);
+}
