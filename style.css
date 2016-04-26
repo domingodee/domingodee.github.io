@@ -75,7 +75,7 @@ footer {
  	display: inline-block;
  	
 
-
-#drawings {
+.drawing {
 	background-image: url(bird.jpg);
+
 }
