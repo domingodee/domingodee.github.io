@@ -82,3 +82,7 @@ footer {
 #draw01 {
 	text-align: center;
 }
+
+.resize{
+	content: 300%
+}
